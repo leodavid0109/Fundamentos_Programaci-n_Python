@@ -1,0 +1,6 @@
+dinero_ahorrado = int(input())
+interes = float(input())
+años_transcurridos = int(input())
+valor_final = dinero_ahorrado * ((1 + interes) ** años_transcurridos)
+redondeo = float((round(valor_final, -1)))
+print(redondeo)
