@@ -1,8 +1,8 @@
-========================================================================
-                      FUNDAMENTOS DE PROGRAMACIÓN
-========================================================================
+# Cheat Sheet: Fundamentos de Programación
 
-=== Conceptos Básicos ===
+---
+
+### Conceptos Básicos
 
 1. **Algoritmo:**
    - Un conjunto de pasos ordenados para resolver un problema.
@@ -13,7 +13,9 @@
 3. **Programa:**
    - Un conjunto de instrucciones que le dice a la computadora qué hacer.
 
-=== Estructuras de Control ===
+---
+
+### Estructuras de Control
 
 4. **Secuencia:**
    - Instrucciones ejecutadas una tras otra en orden.
@@ -24,7 +26,9 @@
 6. **Bucle (for, while):**
    - Repite un bloque de código múltiples veces.
 
-=== Tipos de Datos ===
+---
+
+### Tipos de Datos
 
 7. **Enteros (int):**
    - Números enteros, ej. 5, -3.
@@ -38,7 +42,9 @@
 10. **Booleanos (bool):**
     - Valores Verdadero (True) o Falso (False).
 
-=== Variables ===
+---
+
+### Variables
 
 11. **Variable:**
     - Un contenedor para almacenar datos.
@@ -49,7 +55,9 @@
 13. **Nombre de Variable:**
     - Debe ser descriptivo y seguir convenciones de nomenclatura.
 
-=== Operadores ===
+---
+
+### Operadores
 
 14. **Operadores Aritméticos:**
     - + (suma), - (resta), * (multiplicación), / (división), % (módulo).
@@ -60,7 +68,9 @@
 16. **Operadores Lógicos:**
     - and (y), or (o), not (no).
 
-=== Funciones ===
+---
+
+### Funciones
 
 17. **Función:**
     - Un bloque de código reutilizable que realiza una tarea específica.
@@ -71,7 +81,9 @@
 19. **Retorno de Función:**
     - El valor que una función devuelve después de su ejecución.
 
-=== Listas y Arreglos ===
+---
+
+### Listas y Arreglos
 
 20. **Lista:**
     - Una colección ordenada de elementos.
@@ -85,7 +97,9 @@
 23. **Acceso a Elementos:**
     - `mi_lista[índice]` para acceder a un elemento.
 
-=== Comentarios ===
+---
+
+### Comentarios
 
 24. **Comentario:**
     - Notas en el código para explicar o documentar.
@@ -102,4 +116,10 @@
       '''
       ```
 
-========================================================================
+---
+
+¡Esta hoja de referencia rápida te ayudará a recordar los conceptos clave mientras te sumerges en el mundo de la programación!
+
+---
+
+
