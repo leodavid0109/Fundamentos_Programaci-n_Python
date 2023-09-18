@@ -1,4 +1,4 @@
-# Cheat Sheet: Fundamentos de Programación
+# Fundamentos de Programación
 
 ---
 
