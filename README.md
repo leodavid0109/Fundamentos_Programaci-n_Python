@@ -1,6 +1,34 @@
-# Fundamentos de Programación
+# Repositorio de Fundamentos de Programación en Python
 
----
+¡Bienvenido al repositorio de Fundamentos de Programación en Python! Este repositorio ha sido creado como parte del desarrollo de la materia de Fundamentos de Programación en Python en [nombre de la institución educativa]. Aquí encontrarás ejercicios, proyectos, y un cheat sheet de las bases de Python para fortalecer tus habilidades en este lenguaje de programación.
+
+## Acerca de Fundamentos de Programación en Python
+
+La materia de Fundamentos de Programación en Python es una introducción al mundo de la programación utilizando el lenguaje Python. Durante el curso, se exploran los conceptos básicos de programación, estructuras de datos, control de flujo, funciones y más, todo ello utilizando Python como herramienta principal.
+
+## Contenido del Repositorio
+
+Este repositorio contiene:
+
+- **Ejercicios y Proyectos**: Encontrarás una variedad de ejercicios y proyectos diseñados para practicar y aplicar los conceptos aprendidos en clase. Estos ejercicios abarcan desde los fundamentos básicos hasta problemas más complejos que te desafiarán a utilizar tu creatividad y tus habilidades de programación.
+
+- **Cheat Sheet de Python**: Se incluye un resumen práctico de las bases de Python en forma de un "Cheat Sheet" o hoja de referencia rápida. Este recurso puede ser útil para repasar rápidamente los conceptos clave mientras trabajas en tus proyectos o ejercicios.
+
+
+## Cheat Sheet de Python
+
+Aquí tienes un resumen de las bases de Python:
+
+| Concepto           | Descripción                                                                                     |
+|--------------------|-------------------------------------------------------------------------------------------------|
+| Variables y Tipos de Datos | Int, float, str, bool, list, tuple, set, dict |
+| Operadores | Aritméticos, de comparación, lógicos, de asignación |
+| Estructuras de Control | If, elif, else, while, for |
+| Funciones | Definición, parámetros, retorno |
+| Listas y Tuplas | Creación, indexación, slicing, métodos |
+| Diccionarios y Conjuntos | Creación, acceso, métodos |
+| Importar Módulos | Import, from ... import |
+| Manejo de Excepciones | try, except, finally |
 
 ### Conceptos Básicos
 
@@ -115,11 +143,3 @@
       multilínea.
       '''
       ```
-
----
-
-¡Esta hoja de referencia rápida te ayudará a recordar los conceptos clave mientras te sumerges en el mundo de la programación!
-
----
-
-
