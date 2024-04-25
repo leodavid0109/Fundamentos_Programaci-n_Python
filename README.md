@@ -1,6 +1,6 @@
 # Repositorio de Fundamentos de Programación en Python
 
-¡Bienvenido al repositorio de Fundamentos de Programación en Python! Este repositorio ha sido creado como parte del desarrollo de la materia de Fundamentos de Programación en Python en [nombre de la institución educativa]. Aquí encontrarás ejercicios, proyectos, y un cheat sheet de las bases de Python para fortalecer tus habilidades en este lenguaje de programación.
+¡Bienvenido al repositorio de Fundamentos de Programación en Python! Este repositorio ha sido creado como parte del desarrollo de la materia de Fundamentos de Programación en Python en la Universidad Nacional de Colombia. Aquí encontrarás ejercicios, proyectos, y un cheat sheet de las bases de Python para fortalecer tus habilidades en este lenguaje de programación.
 
 ## Acerca de Fundamentos de Programación en Python
 
